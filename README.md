@@ -1,1 +1,2 @@
 # login_collection
+This repository contains a curated collection of login page templates. Explore various designs and implementations to help you build secure and user-friendly authentication interfaces for your projects.
